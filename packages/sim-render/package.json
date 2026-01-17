@@ -1,0 +1,22 @@
+{
+    "name": "@repo/sim-render",
+    "version": "0.0.1",
+    "main": "src/index.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "@repo/sim-core": "*",
+        "three": "^0.160.0",
+        "pixi.js": "^7.0.0"
+    },
+    "peerDependencies": {
+        "react": "^18.0.0 || ^19.0.0",
+        "react-dom": "^18.0.0 || ^19.0.0"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0",
+        "@types/react": "^18.0.0",
+        "@types/react-dom": "^18.0.0"
+    }
+}
