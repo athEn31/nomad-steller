@@ -12,6 +12,8 @@
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.5.0",
     "@repo/ai-mock": "^0.0.1",
+    "@repo/sim-core": "*",
+    "@repo/sim-render": "*",
     "clsx": "^2.1.1",
     "framer-motion": "^12.26.2",
     "i18next": "^25.7.4",
@@ -32,6 +34,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.1.3",
+    "lightningcss": "^1.23.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
